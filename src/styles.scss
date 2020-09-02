@@ -1,4 +1,64 @@
-@import "styles/spectate";
+@page {
+  size: letter;
+}
 
-// Uncomment the following line before publishing a News story
-// @import "styles/news-ellipsis";
+$blue: #43bdc4;
+// $blue: #c081da;
+
+p {
+  margin: 0;
+  color: #121212;
+  font-family: "Helvetica Neue";
+  font-size: 15px;
+  line-height: 21px;
+}
+
+a {
+  color: #121212;
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+
+  .name {
+    color: $blue;
+    font-weight: bold;
+    font-size: 23px;
+  }
+
+  div:last-child {
+    text-align: right;
+    p,
+    a {
+      color: #777;
+    }
+  }
+}
+
+.body-section .item {
+  .item-title {
+    font-weight: bold;
+  }
+
+  .item-subtitle {
+    b {
+      color: $blue;
+    }
+
+    .subdue {
+      color: #777;
+    }
+  }
+
+  .story {
+    padding-left: 40px;
+
+    .hed {
+      color: $blue;
+    }
+  }
+}
+

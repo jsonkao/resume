@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "new-resume",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -34,6 +34,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1naJOSuOWDpAC3wR49wb7eBsgWGTCZcn9KOpoIdxDZSg/edit#"
   }
 }

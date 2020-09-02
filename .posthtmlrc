@@ -8,11 +8,21 @@
       "locals": {
         "top": [],
         "body": [],
+        "experiences": [
+          {
+            "company": "Bloomberg News",
+            "title": "News Intern",
+            "date": "June 2020 – August 2020",
+            "description": "Wrote data stories about the intersection of race, labor and climate. Investigated Big Databases with parallel processing (Python and R), produced interactive visualizations (JavaScript), and geoprocessed rasters to report on systemic bias in FEMA flood risk assessments (GDAL).",
+            "story_hed": "Low-income, Black, Hispanic Communities Rebounded Weeks Faster in Movement",
+            "story_description": "Our deep dive into New York's return to normal uncovered stark isparities disparities in movement and labor. I wrote code that could process hundreds of gigabytes of location data in under a minute, allowing us to discover the disparity. The story garnered more than 31,000 terminal and web views."
+          }
+        ],
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1naJOSuOWDpAC3wR49wb7eBsgWGTCZcn9KOpoIdxDZSg/edit#"
       }
     }
   }
