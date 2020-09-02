@@ -5,6 +5,8 @@
 $blue: #43bdc4;
 // $blue: #c081da;
 
+$vert-spacing: 21px;
+
 p {
   margin: 0;
   color: #121212;
@@ -58,7 +60,32 @@ a {
 
     .hed {
       color: $blue;
+      b { font-weight: normal;}
+
+      span {
+        font-style: italic;
+      }
     }
   }
 }
 
+.container {
+  margin-top: $vert-spacing;
+}
+
+.body-section.experiences .item:not(:first-child) {
+  margin-top: $vert-spacing;
+}
+
+.thumbnail {
+  height: 100px;
+  display: none;
+}
+
+.container {
+  display: flex;
+
+  p {
+    min-width: 130px;
+  }
+}

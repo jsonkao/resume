@@ -1,14 +1,21 @@
-<div class="body-section experience">
-  <div class="item">
-    <p class="item-title">{{ item.company }}</p>
-    <p class="item-subtitle">
-      <b>{{ item.title }}</b>
-      <span class="subdue">{{ item.date }}</span>
-    </p>
-    <p class="item-description">{{ item.description }}</p>
+<div class="item">
+  <p class="item-title">{{ item.company }}</p>
+  <p class="item-subtitle">
+    <b>{{ item.title }}</b>
+    <span class="subdue">{{ item.date }}</span>
+  </p>
+  <p class="item-description">{{ item.description }}</p>
+
+  <if condition="item.story_hed">
     <div class="story">
-      <p class="hed"><b>Notable story:</b> {{ item.story_hed }}</p>
+      <p class="hed">
+        <if condition="index === 0">Notable story: </if
+        ><span>{{ item.story_hed }}</span>
+      </p>
       <p>{{ item.story_description }}</p>
+      <if condition="item.thumbnail"
+        ><img class="thumbnail" src="{{ item.thumbnail }}"
+      /></if>
     </div>
-  </div>
+  </if>
 </div>
