@@ -16,7 +16,7 @@
             "description": "Investigated massive databases to cover the intersection of race, labor and climate. Geoprocessed raster data across the U.S.to report on systemic bias in FEMA flood risk assessments. Developed interactive maps and charts.",
             "stories": [
               {
-                "hed": "Low-income, Black, Hispanic Communities Rebounded Weeks Faster in Movement",
+                "hed": "<a href=\"https://www.bloomberg.com/graphics/2020-new-york-city-reopening/\">Low-income, Black, Hispanic Communities Rebounded Weeks Faster in Movement</a>",
                 "description": "Wrote code that processed hundreds of gigabytes of longitudinal location data in under a minute, revealing stark movement and labor disparities in New York’s reopening. The story garnered more than 31,000 terminal and web views."
               }
             ]
@@ -28,7 +28,7 @@
             "description": "Covered U.S. immigration and protests in Puerto Rico with data and visuals. Wrote data stories about asylum seekers and the Hong Kong protests. Produced breaking visual coverage of debates, shootings, and the impeachment.",
             "stories": [
               {
-                "hed": "A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets",
+                "hed": "<a href=\"https://www.nytimes.com/interactive/2019/06/20/world/asia/hong-kong-protest-size.html\">A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets</a>",
                 "description": "Multimedia maps depict the scale of last summer’s protests. The story won a Malofiej Gold and a Malofiej Human Rights Best Graphic Award, as well as the SOPA Award for Excellence in Information Graphics."
               }
             ]
@@ -40,11 +40,11 @@
             "description": "Conceptualize and develop enterprise data and visual projects. Direct and edit all data stories and data visualizations, managing ten reporters and overseeing five assignments per week.",
             "stories": [
               {
-                "hed": "Uncertainty Looms as Student Jobs Disappear",
+                "hed": "<a href=\"https://www.columbiaspectator.com/eye-lead/2020/05/15/uncertainty-looms-as-student-jobs-are-disappearing-during-the-great-lockdown/\">Uncertainty Looms as Student Jobs Disappear</a>",
                 "description": "Scraped jobs platforms for over a year to depict the steep decline in job availability and visa sponsorship."
               },
               {
-                "hed": "West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates will make recovery an uphill battle.",
+                "hed": "<a href=\"https://www.columbiaspectator.com/news/2020/04/13/west-harlem-residents-fall-under-the-most-at-risk-groups-for-contracting-covid-high-poverty-rates-will-make-recovery-an-uphill-battle/\">West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates will make recovery an uphill battle.</a>",
                 "description": "Data and visuals showing the pandemic’s risk disparity in West Harlem."
               }
             ]

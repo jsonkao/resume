@@ -11,7 +11,7 @@
       <div class="story">
         <p class="hed">
           <if condition="index + story_index === 0">Notable story: </if
-          ><span>{{ story.hed }}</span>
+          ><span>{{{ story.hed }}}</span>
         </p>
         <p>{{ story.description }}</p>
         <if condition="story.thumbnail"
