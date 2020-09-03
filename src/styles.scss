@@ -1,9 +1,15 @@
+body {
+  max-width: 847px;
+  margin: 0 auto;
+}
+
 @page {
   size: letter;
 }
 
 $blue: #43bdc4;
-// $blue: #c081da;
+$blue: #c081da;
+$blue: #82e5eb;
 
 $vert-spacing: 21px;
 
@@ -11,8 +17,8 @@ p {
   margin: 0;
   color: #121212;
   font-family: "Helvetica Neue";
-  font-size: 15px;
-  line-height: 21px;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 a {
@@ -23,12 +29,19 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 24px;
+  margin-bottom: 34px;
 
   .name {
     color: $blue;
     font-weight: bold;
     font-size: 23px;
+    height: 21px;
+    transform: translateY(-3px);
+  }
+
+  .website,
+  .website a {
+    color: $blue;
   }
 
   div:last-child {
@@ -51,7 +64,7 @@ a {
     }
 
     .subdue {
-      color: #777;
+      color: #787878;
     }
   }
 
@@ -59,8 +72,8 @@ a {
     padding-left: 40px;
 
     .hed {
-      color: $blue;
-      b { font-weight: normal;}
+      // color: $blue;
+      font-weight: bold;
 
       span {
         font-style: italic;
@@ -85,7 +98,14 @@ a {
 .container {
   display: flex;
 
-  p {
-    min-width: 130px;
+  &> p:first-child {
+    min-width: 140px;
+    color: #666;
   }
+}
+
+.tools .item {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 12px;
 }

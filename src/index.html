@@ -12,13 +12,13 @@
   </head>
 
   <body class="letter">
-    <section class="sheet padding-10mm">
+    <section class="sheet padding-20mm">
       <div class="header">
         <div>
           <p class="name">Jason Kao</p>
+          <p class="website">Full portoflio at <a href="https://jasonkao.com">jasonkao.com</a></p>
         </div>
         <div>
-          <p class="website"><a href="https://jasonkao.com">jasonkao.com</a></p>
           <p>+1 (347) 933-1820</p>
           <p>
             <a href="mailto:jason.kao@columbia.edu">jason.kao@columbia.edu</a>
@@ -39,7 +39,10 @@
         <p>Education</p>
         <div class="body-section education">
           <div class="item">
-            <p><span class="item-title">Columbia University</span> — B.S. Computer Science, May 2022. GPA: 3.7</p>
+            <p>
+              <span class="item-title">Columbia University</span> — B.S.
+              Computer Science, May 2022. 3.7 GPA.
+            </p>
           </div>
         </div>
       </div>
@@ -51,8 +54,8 @@
             <each loop="item in tools">
               <p>
                 <b>{{ item.key }}:</b>
-                {{ item.value }}
               </p>
+              <p>{{ item.value }}</p>
             </each>
           </div>
         </div>

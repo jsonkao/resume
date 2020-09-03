@@ -6,16 +6,18 @@
   </p>
   <p class="item-description">{{ item.description }}</p>
 
-  <if condition="item.story_hed">
-    <div class="story">
-      <p class="hed">
-        <if condition="index === 0">Notable story: </if
-        ><span>{{ item.story_hed }}</span>
-      </p>
-      <p>{{ item.story_description }}</p>
-      <if condition="item.thumbnail"
-        ><img class="thumbnail" src="{{ item.thumbnail }}"
-      /></if>
-    </div>
+  <if condition="item.stories">
+    <each loop="story, story_index in item.stories">
+      <div class="story">
+        <p class="hed">
+          <if condition="index + story_index === 0">Notable story: </if
+          ><span>{{ story.hed }}</span>
+        </p>
+        <p>{{ story.description }}</p>
+        <if condition="story.thumbnail"
+          ><img class="thumbnail" src="{{ story.thumbnail }}"
+        /></if>
+      </div>
+    </each>
   </if>
 </div>
