@@ -46,6 +46,9 @@
               {
                 "hed": "<a href=\"https://www.columbiaspectator.com/news/2020/04/13/west-harlem-residents-fall-under-the-most-at-risk-groups-for-contracting-covid-high-poverty-rates-will-make-recovery-an-uphill-battle/\">West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates will make recovery an uphill battle.</a>",
                 "description": "Data and visuals showing the pandemic’s risk disparity in West Harlem."
+              },
+              {
+                "hed": "<a href=\"https://graphicsdesk.github.io/\">Full portfolio at <code>graphicsdesk.github.io</code></a>"
               }
             ]
           }
@@ -65,8 +68,52 @@
           },
           {
             "key": "Applications",
-            "value": "Illustrator, Photoshop, Jupyter Notebook"
+            "value": "Illustrator, Photoshop, Jupyter Notebook, Sketch"
           }
+        ],
+        "more_experiences": [
+          {
+            "company": "Tapp Studios",
+            "title": "Software Engineer (Contract)",
+            "date": "May 2018 – August 2018",
+            "description": "Designed and developed a personal investment app in React Native. Conducted rigorous iterative design and user testing. Created a property management platform with React Native and Firebase."
+          },
+          {
+            "company": "IMMINENT",
+            "title": "Software Engineering Intern",
+            "date": "January 2017 – March 2017",
+            "description": "Designed and developed a UI revamp of employee volunteer and donation campaigns on a intra-company social network. Implemented a messaging interface in the employee engagement platform on the MEAN stack."
+          },
+          {
+            "company": "The Brass Tacks",
+            "title": "Founding Editor",
+            "date": "May 2018 – November 2018",
+            "description": "Created an online magazine and an apparel line to discuss cultural patterns with interactive, data-based features. Secured $1000 in capital for apparel after placing 2nd in i.Invest National Youth Business Competition."
+          },
+          {
+            "company": "The Stuyvesant Spectator",
+            "title": "Web Editor",
+            "date": "May 2018 – November 2018",
+            "description": "Spearheaded design (4 months) and development (6 months) of React website, Rails/GraphQL server, and Go uploader, managing 10 people over 3 teams. Engineered a Go CLI to automatically format and upload nearly 40 articles biweekly, reaching 3,000 monthly readers."
+          }
+        ],
+        "awards": [
+          "<b>Malofiej Gold Medal (2020)</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
+          "<b>Malofiej Human Rights Best Graphics Award (2020)</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
+          "<b>SOPA Award for Excellence in Information Graphics</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
+          "<b>Google’s Best Machine Learning Hack, MHacks X (2018)</b>, for a visual, graph-based free-writing application",
+          "<b>$1000 grant for 2nd place in the i.invest Startup Competition (2017)</b> for The Brass Tacks, an online magazine and an apparel line to discuss cultural patterns with interactive, data-based features",
+          "<b>1st Place in the Two Sigma High School Data Science Competition (2017)</b>"
+        ],
+        "conferences": [
+          "NICAR 2020, New Orleans (data journalism)",
+          "Online News Association 2019, New Orleans (digital journalism)",
+          "Tapestry Conference 2019, Miami (data visualization)",
+          "SRCCON 2019, Minneapolis (digital journalism)",
+          "NICAR 2019, Newport Beach (data journalism)",
+          "Computation + Journalism Symposium 2019, Miami (computational journalism)",
+          "SRCCON 2018, Minneapolis (digital journalism)",
+          "Meetups for React, JavaScript, Svelte, UI/UX Design (2016 – 2020, NYC). Talk: <a href=\"https://www.youtube.com/watch?v=zR_LDPLMUvE\">Scrollytelling in React.</a>"
         ],
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": false,

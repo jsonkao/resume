@@ -8,8 +8,8 @@ body {
 }
 
 $blue: #43bdc4;
-$blue: #c081da;
-$blue: #82e5eb;
+// $blue: #c081da;
+// $blue: #82e5eb;
 
 $vert-spacing: 21px;
 
@@ -108,4 +108,8 @@ a {
   display: grid;
   grid-template-columns: auto auto;
   column-gap: 12px;
+}
+
+.container.conferences a {
+  text-decoration: underline;
 }

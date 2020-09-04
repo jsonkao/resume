@@ -15,8 +15,8 @@
     <section class="sheet padding-20mm">
       <div class="header">
         <div>
-          <p class="name">Jason Kao - CV</p>
-          <p class="website">Visual portoflio at <a href="https://jasonkao.com">jasonkao.com</a></p>
+          <p class="name">Jason Kao</p>
+          <p class="website">Full portoflio at <a href="https://jasonkao.com">jasonkao.com</a></p>
         </div>
         <div>
           <p>+1 (347) 933-1820</p>
@@ -32,9 +32,6 @@
           <each loop="item, index in experiences">
             <include src="./partials/experience.html"></include>
           </each>
-          <each loop="item, index in more_experiences">
-            <include src="./partials/experience.html"></include>
-          </each>
         </div>
       </div>
 
@@ -48,24 +45,6 @@
             </p>
           </div>
         </div>
-      </div>
-
-      <div class="container">
-        <p>Awards</p>
-        <div class="body-section">
-          <each loop="item in awards">
-            <p>{{{ item }}}</p>
-          </each>
-          </div>
-      </div>
-
-      <div class="container conferences">
-        <p>Conferences</p>
-        <div class="body-section">
-          <each loop="item in conferences">
-            <p>{{{ item }}}</p>
-          </each>
-          </div>
       </div>
 
       <div class="container">
