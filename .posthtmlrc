@@ -13,7 +13,7 @@
             "company": "Bloomberg News",
             "title": "News Intern",
             "date": "June 2020 – August 2020",
-            "description": "Investigated massive databases to cover the intersection of race, labor and climate. Geoprocessed raster data across the U.S.to report on systemic bias in FEMA flood risk assessments. Developed interactive maps and charts.",
+            "description": "Investigated large databases to cover the intersection of race, labor and climate. Geoprocessed raster data across the U.S.to report on systemic bias in FEMA flood risk assessments. Wrote and produced stories with interactive charts and maps.",
             "stories": [
               {
                 "hed": "<a href=\"https://www.bloomberg.com/graphics/2020-new-york-city-reopening/\">Low-income, Black, Hispanic Communities Rebounded Weeks Faster in Movement</a>",
@@ -25,7 +25,7 @@
             "company": "The New York Times",
             "title": "Graphics Intern",
             "date": "May 2019 – August 2019",
-            "description": "Covered U.S. immigration and protests in Puerto Rico with data and visuals. Wrote data stories about asylum seekers and the Hong Kong protests. Produced breaking visual coverage of debates, shootings, and the impeachment.",
+            "description": "Covered U.S. immigration and protests in Puerto Rico with data and visualization. Wrote data-driven stories about asylum seekers and the Hong Kong protests. Produced breaking visual coverage of debates, shootings, and the impeachment.",
             "stories": [
               {
                 "hed": "<a href=\"https://www.nytimes.com/interactive/2019/06/20/world/asia/hong-kong-protest-size.html\">A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets</a>",
@@ -37,14 +37,14 @@
             "company": "Columbia Daily Spectator",
             "title": "Graphics Deputy Editor",
             "date": "September 2018 – present",
-            "description": "Conceptualize and develop enterprise data and visual projects. Direct and edit all data stories and data visualizations, managing ten reporters and overseeing five assignments per week.",
+            "description": "Conceptualize and develop enterprise data projects. Direct and edit all data stories and visualizations, managing ten reporters and overseeing five assignments a week.",
             "stories": [
               {
                 "hed": "<a href=\"https://www.columbiaspectator.com/eye-lead/2020/05/15/uncertainty-looms-as-student-jobs-are-disappearing-during-the-great-lockdown/\">Uncertainty Looms as Student Jobs Disappear</a>",
-                "description": "Scraped jobs platforms for over a year to depict the steep decline in job availability and visa sponsorship."
+                "description": "Scraped jobs platform for over a year to depict the steep decline in job availability and visa sponsorship."
               },
               {
-                "hed": "<a href=\"https://www.columbiaspectator.com/news/2020/04/13/west-harlem-residents-fall-under-the-most-at-risk-groups-for-contracting-covid-high-poverty-rates-will-make-recovery-an-uphill-battle/\">West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates will make recovery an uphill battle.</a>",
+                "hed": "<a href=\"https://www.columbiaspectator.com/news/2020/04/13/west-harlem-residents-fall-under-the-most-at-risk-groups-for-contracting-covid-high-poverty-rates-will-make-recovery-an-uphill-battle/\">West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates make recovery an uphill battle.</a>",
                 "description": "Data and visuals showing the pandemic’s risk disparity in West Harlem."
               },
               {
@@ -63,33 +63,15 @@
             "value": "QGIS, GDAL/OGR, Mapbox, mapshaper"
           },
           {
-            "key": "Web programming",
-            "value": "D3, WebGL, JavaScript, Node, Svelte, React, Django"
+            "key": "Web technologies",
+            "value": "D3, WebGL/GLSL, JS, Svelte, React, Django, GraphQL"
           },
           {
             "key": "Applications",
-            "value": "Illustrator, Photoshop, Jupyter Notebook, Sketch"
+            "value": "Adobe Illustrator, Photoshop, Jupyter Notebook, Sketch"
           }
         ],
         "more_experiences": [
-          {
-            "company": "Tapp Studios",
-            "title": "Software Engineer (Contract)",
-            "date": "May 2018 – August 2018",
-            "description": "Designed and developed a personal investment app in React Native. Conducted rigorous iterative design and user testing. Created a property management platform with React Native and Firebase."
-          },
-          {
-            "company": "IMMINENT",
-            "title": "Software Engineering Intern",
-            "date": "January 2017 – March 2017",
-            "description": "Designed and developed a UI revamp of employee volunteer and donation campaigns on a intra-company social network. Implemented a messaging interface in the employee engagement platform on the MEAN stack."
-          },
-          {
-            "company": "The Brass Tacks",
-            "title": "Founding Editor",
-            "date": "May 2018 – November 2018",
-            "description": "Created an online magazine and an apparel line to discuss cultural patterns with interactive, data-based features. Secured $1000 in capital for apparel after placing 2nd in i.Invest National Youth Business Competition."
-          },
           {
             "company": "The Stuyvesant Spectator",
             "title": "Web Editor",
@@ -98,12 +80,16 @@
           }
         ],
         "awards": [
-          "<b>Malofiej Gold Medal (2020)</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
-          "<b>Malofiej Human Rights Best Graphics Award (2020)</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
-          "<b>SOPA Award for Excellence in Information Graphics</b> for the project How Big Was Last Sunday’s Protest in Hong Kong in The New York Times",
-          "<b>Google’s Best Machine Learning Hack, MHacks X (2018)</b>, for a visual, graph-based free-writing application",
-          "<b>$1000 grant for 2nd place in the i.invest Startup Competition (2017)</b> for The Brass Tacks, an online magazine and an apparel line to discuss cultural patterns with interactive, data-based features",
-          "<b>1st Place in the Two Sigma High School Data Science Competition (2017)</b>"
+          "<a href=\"https://www.malofiejgraphics.com/2020/08/general/list-award/\"><b>Malofiej Gold Medal</b></a><b>,</b>",
+          "<a href=\"https://www.malofiejgraphics.com/2020/08/general/list-award/\"><b>Malofiej Human Rights Best Graphics Award</b></a><b>,</b>",
+          "<b>Society of Publishers in Asia Award for Excellence in Information Graphics,</b>",
+          "<b>and </b><a href=\"https://www.snd.org/bodd/2020/02/10/2019-results/\"><b>Society for News Design Infographics Bronze</b></a><b> </b>for A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets in The New York Times (2019).",
+          "‎",
+          "<a href=\"https://devpost.com/software/free-write\"><b>Google’s Best Machine Learning Hack at MHacks X</b></a><b> </b>for a visual, graph-based free-writing augmenter",
+          "‎",
+          "<a href=\"https://prsbiznews.me/2017/09/25/2017-i-invest-national-youth-business-competition-winners-announced/\"><b>$1,000 grant for 2nd place in the i.invest Startup Competition</b></a> for The Brass Tacks, an online magazine and an apparel line to discuss cultural patterns with interactive, data-based features",
+          "‎",
+          "<b>1st Place in the Two Sigma High School Data Science Competition</b>"
         ],
         "conferences": [
           "NICAR 2020, New Orleans (data journalism)",

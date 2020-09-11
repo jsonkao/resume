@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "parcel src/index.html --global script",
+    "start": "parcel src/*.html --global script",
     "build": "parcel build src/index.html --global script --public-url . --no-content-hash",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "patch-package"
