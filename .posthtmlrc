@@ -36,8 +36,8 @@
           {
             "company": "Columbia Daily Spectator",
             "title": "Graphics Deputy Editor",
-            "date": "September 2018 – present",
-            "description": "Conceptualize and develop enterprise data projects. Direct and edit all data stories and visualizations, managing ten reporters and overseeing five assignments a week.",
+            "date": "September 2018 – December 2020",
+            "description": "Direct, create, and edit data stories and visualizations, co-leading ten reporters. Developed many stories with web scraping, Conceptualize and develop enterprise data projects. Our full portfolio is at <a href=\"https://graphicsdesk.github.io/\"><code>graphicsdesk.github.io</code></a>.",
             "stories": [
               {
                 "hed": "<a href=\"https://www.columbiaspectator.com/eye-lead/2020/05/15/uncertainty-looms-as-student-jobs-are-disappearing-during-the-great-lockdown/\">Uncertainty Looms as Student Jobs Disappear</a>",
@@ -46,9 +46,6 @@
               {
                 "hed": "<a href=\"https://www.columbiaspectator.com/news/2020/04/13/west-harlem-residents-fall-under-the-most-at-risk-groups-for-contracting-covid-high-poverty-rates-will-make-recovery-an-uphill-battle/\">West Harlem residents fall under the most at risk groups for contracting COVID. High poverty rates make recovery an uphill battle.</a>",
                 "description": "Data and visuals showing the pandemic’s risk disparity in West Harlem."
-              },
-              {
-                "hed": "<a href=\"https://graphicsdesk.github.io/\">Full portfolio at <code>graphicsdesk.github.io</code></a>"
               }
             ]
           }
@@ -59,12 +56,12 @@
             "value": "Python, R, SQL, web scraping, shell scripting, Make, AWS"
           },
           {
-            "key": "Spatial analysis",
-            "value": "QGIS, GDAL/OGR, Mapbox, mapshaper"
-          },
-          {
             "key": "Web technologies",
             "value": "D3, WebGL/GLSL, JS, Svelte, React, Django, GraphQL"
+          },
+          {
+            "key": "Spatial analysis",
+            "value": "QGIS, GDAL/OGR, Mapbox, mapshaper"
           },
           {
             "key": "Applications",
@@ -72,6 +69,12 @@
           }
         ],
         "more_experiences": [
+          {
+            "company": "Columbia University Data Science Institute",
+            "title": "Data for Good Scholar",
+            "date": "Nov 2020 – present",
+            "description": "Spearheaded design and development of React website, Rails/GraphQL server, and Go uploader, directing ten people over three teams. Engineered a Go CLI to automatically format and upload nearly 40 articles biweekly, reaching 3,000 monthly readers."
+          },
           {
             "company": "The Stuyvesant Spectator",
             "title": "Web Editor",

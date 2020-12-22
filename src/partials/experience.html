@@ -4,7 +4,7 @@
     <b>{{ item.title }}</b>
     <span class="subdue">{{ item.date }}</span>
   </p>
-  <p class="item-description">{{ item.description }}</p>
+  <p class="item-description">{{{ item.description }}}</p>
 
   <each loop="story, story_index in item.stories || []">
     <div class="story">

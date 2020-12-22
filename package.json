@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
+    "node-gyp": "^7.1.2",
     "text-balancer": "^1.0.5"
   },
   "browserslist": [
